@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="TomznReleVoltage/TomznReleVoltage.vcxproj" Id="ce892303-afbb-4d61-ac29-fc5f8ab608d2" />
+</Solution>
