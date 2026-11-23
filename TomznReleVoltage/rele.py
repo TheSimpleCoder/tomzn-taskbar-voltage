@@ -3,7 +3,8 @@ import base64
 import time
 
 DEVICE_ID = ""
-IP = ""
+devices = tinytuya.find_device(dev_id=DEVICE_ID)
+IP = devices['ip']
 LOCAL_KEY = ""
 
 VOLTAGE_DP = "6"
